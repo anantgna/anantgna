@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17593
-Fork on GitHub
-5131
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Anant Jain</h1>
 <h3 align="center">Fullstack Web & Android Developer from India</h3>
 
